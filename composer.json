@@ -1,5 +1,6 @@
 {
     "name": "komsan.nu/leson1",
+    "license": "MIT",
     "type": "project",
     "require": {
         "php": "^7.4 || ^8.0"
