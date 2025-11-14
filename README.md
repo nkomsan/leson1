@@ -1,2 +1,2 @@
 # leson1
-v0.0.1-dev.1
+v0.2.0-alpha
