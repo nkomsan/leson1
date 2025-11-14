@@ -1,0 +1,18 @@
+{
+    "name": "komsan.nu/leson1",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "KomsanNu\\Leson1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Komsan Nurak",
+            "email": "code@ksn.in.th"
+        }
+    ]
+}
